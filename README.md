@@ -1,4 +1,4 @@
-# Xie-A-Shu
+# xie-anh-jinx
 
 > *"Experimentalism."*
 
@@ -29,4 +29,4 @@ I study what app does to humans.
 → Experimenting with local-first intelligence
 ```
 
-**0xkotaromiyabi**
+**xie-anh-jinx**
