@@ -1,4 +1,4 @@
-# xie-anh-jinx
+# xie-anh-jinx - a.k.a Kotaromiyabi
 
 > *"Experimentalism."*
 
